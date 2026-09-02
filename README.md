@@ -15,6 +15,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 | [0001-two-sum](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [4017-peaks-in-array-ii](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/4017-peaks-in-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,12 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
+## Divide and Conquer
+|  |
+| ------- |
+| [4017-peaks-in-array-ii](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/4017-peaks-in-array-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [4017-peaks-in-array-ii](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/4017-peaks-in-array-ii) |
 <!---LeetCode Topics End-->
