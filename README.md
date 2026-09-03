@@ -9,6 +9,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 | [0002-add-two-numbers](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0069-sqrtx) |
 ## Array
 |  |
 | ------- |
@@ -56,4 +57,12 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 |  |
 | ------- |
 | [4017-peaks-in-array-ii](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/4017-peaks-in-array-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
