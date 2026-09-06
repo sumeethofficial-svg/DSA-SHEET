@@ -26,6 +26,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
@@ -37,6 +38,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -67,4 +69,8 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
