@@ -29,6 +29,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -73,4 +74,12 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
