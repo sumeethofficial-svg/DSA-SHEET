@@ -18,6 +18,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 | [0014-longest-common-prefix](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [4017-peaks-in-array-ii](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/4017-peaks-in-array-ii) |
 ## Two Pointers
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 | [0001-two-sum](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode problems solved and automatically synced from LeetCode 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sumeethofficial-svg/DSA-SHEET/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
